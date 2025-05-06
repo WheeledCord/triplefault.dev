@@ -1,0 +1,2 @@
+# triplefault.dev
+bad website
